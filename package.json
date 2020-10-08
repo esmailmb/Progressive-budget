@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/omiinaya/progressive-budget.git"
+    "url": "git+https://github.com/esmailmb/Progressive-budget.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://https://github.com/omiinaya/progressive-budget.git"
+    "url": "https://https://github.com/esmailmb/Progressive-budget.git"
   },
-  "homepage": "https://https://github.com/omiinaya/progressive-budget.git",
+  "homepage": "https://https://github.com/esmailmb/Progressive-budget.git",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
